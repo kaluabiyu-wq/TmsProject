@@ -320,7 +320,7 @@ decimal classAverage = students1.Length > 0
 ? students.Average(s => s.GPA)
 :0m;
 
-Console.WriteLine("\n============ ENROLLMENT SUMMARY==============");
+Console.WriteLine("\n============= ENROLLMENT SUMMARY===============");
 Console.WriteLine($"Total students loaded: {students1.Length}");
 Console.WriteLine($"Successful enrollments: {enrollments.Count}");
 Console.WriteLine($"Failed enrollments: {failures.Count}");

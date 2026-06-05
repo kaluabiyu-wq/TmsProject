@@ -17,6 +17,10 @@ public class EnrollmentService
          //throw new ArgumentNullException($"Course '{course.Title}' is at full capacity.");
 
         // Console.WriteLine($"Enrolling (student.Name) in {course.Title}");
+
+
+
+
     
 
    var standing = student.GPA switch
