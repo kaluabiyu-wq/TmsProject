@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tarik\\Desktop\\kalu\\C#\\TmsCore\\TmsCore.csproj",
+      "projectUniqueName": "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\TmsCore.csproj",
       "projectName": "TmsCore",
-      "projectPath": "C:\\Users\\tarik\\Desktop\\kalu\\C#\\TmsCore\\TmsCore.csproj",
+      "projectPath": "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\TmsCore.csproj",
       "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tarik\\Desktop\\kalu\\C#\\TmsCore\\obj\\",
+      "outputPath": "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config"
