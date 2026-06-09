@@ -9,7 +9,8 @@ public class EnrollmentService
         throw new ArgumentNullException(nameof(student));
         if(course is null)
         throw new ArgumentNullException(nameof(course));
-
+        if(course.Capacity == 0 )
+         throw new CapacityReachedException($"{course.Code}");
         if(course.EnrolledCount >= course.Capacity)
         throw new InvalidOperationException("Course has reached capacity.");
         
