@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\TmsCore.csproj": {}
+    "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\TmsCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\TmsCore.csproj": {
+    "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\TmsCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\TmsCore.csproj",
+        "projectUniqueName": "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\TmsCore.csproj",
         "projectName": "TmsCore",
-        "projectPath": "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\TmsCore.csproj",
-        "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarik\\Desktop\\Tms-project\\TmsProject\\TmsCore\\obj\\",
+        "projectPath": "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\TmsCore.csproj",
+        "packagesPath": "C:\\Users\\CSUG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\CSUG\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
