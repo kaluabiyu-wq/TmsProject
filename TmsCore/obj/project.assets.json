@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\CSUG\\.nuget\\packages\\": {}
+    "C:\\Users\\tarik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\TmsCore.csproj",
+      "projectUniqueName": "C:\\Users\\tarik\\Desktop\\New folder\\TmsProject\\TmsCore\\TmsCore.csproj",
       "projectName": "TmsCore",
-      "projectPath": "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\TmsCore.csproj",
-      "packagesPath": "C:\\Users\\CSUG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CSUG\\Desktop\\TmsProject\\TmsCore\\obj\\",
+      "projectPath": "C:\\Users\\tarik\\Desktop\\New folder\\TmsProject\\TmsCore\\TmsCore.csproj",
+      "packagesPath": "C:\\Users\\tarik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tarik\\Desktop\\New folder\\TmsProject\\TmsCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CSUG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tarik\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

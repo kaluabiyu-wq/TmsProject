@@ -13,3 +13,18 @@ C:\Users\tarik\Desktop\kalu\C#\TmsCore\obj\Debug\net10.0\refint\TmsCore.dll
 C:\Users\tarik\Desktop\kalu\C#\TmsCore\obj\Debug\net10.0\TmsCore.pdb
 C:\Users\tarik\Desktop\kalu\C#\TmsCore\obj\Debug\net10.0\TmsCore.genruntimeconfig.cache
 C:\Users\tarik\Desktop\kalu\C#\TmsCore\obj\Debug\net10.0\ref\TmsCore.dll
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\bin\Debug\net10.0\TmsCore.exe
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\bin\Debug\net10.0\TmsCore.deps.json
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\bin\Debug\net10.0\TmsCore.runtimeconfig.json
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\bin\Debug\net10.0\TmsCore.dll
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\bin\Debug\net10.0\TmsCore.pdb
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.AssemblyInfoInputs.cache
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.AssemblyInfo.cs
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.csproj.CoreCompileInputs.cache
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.sourcelink.json
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.dll
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\refint\TmsCore.dll
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.pdb
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\TmsCore.genruntimeconfig.cache
+C:\Users\tarik\Desktop\New folder\TmsProject\TmsCore\obj\Debug\net10.0\ref\TmsCore.dll
